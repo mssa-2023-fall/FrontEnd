@@ -23,7 +23,7 @@ To build and test the application, follow these steps:
 
 To publish the application, follow these steps:
 
-1. [Instructions for publishing the Razor Page app] (TBD)
+1. [Instructions for publishing the React Page app] (TBD)
 2. [Instructions for publishing the Console App] (TBD)
 
 ### GitHub Actions
