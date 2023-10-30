@@ -1,0 +1,2 @@
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\bin\Release\net7.0-windows\win10-x64\publish\MortgageCalculatorv2.pdb
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\bin\Release\net7.0-windows\win10-x64\publish\MortgageCalculatorv2.exe

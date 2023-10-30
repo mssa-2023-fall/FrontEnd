@@ -1,0 +1,48 @@
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\bin\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.exe
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\bin\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.deps.json
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\bin\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.runtimeconfig.json
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\bin\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.dll
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\bin\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.pdb
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\MortgageCalculatorGUI.MainForm.resources
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.csproj.GenerateResource.cache
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.AssemblyInfoInputs.cache
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.AssemblyInfo.cs
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.csproj.CoreCompileInputs.cache
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.dll
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\refint\MortgageCalculatorv2.dll
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.pdb
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.genruntimeconfig.cache
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\ref\MortgageCalculatorv2.dll
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculator\MortgageCalculatorGUI\bin\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.exe
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculator\MortgageCalculatorGUI\bin\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.deps.json
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculator\MortgageCalculatorGUI\bin\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.runtimeconfig.json
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculator\MortgageCalculatorGUI\bin\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.dll
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculator\MortgageCalculatorGUI\bin\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.pdb
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\MortgageCalculatorGUI.MainForm.resources
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.csproj.GenerateResource.cache
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.AssemblyInfoInputs.cache
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.AssemblyInfo.cs
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.csproj.CoreCompileInputs.cache
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.dll
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\refint\MortgageCalculatorv2.dll
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.pdb
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.genruntimeconfig.cache
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\ref\MortgageCalculatorv2.dll
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculatorGUI\bin\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.exe
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculatorGUI\bin\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.deps.json
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculatorGUI\bin\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.runtimeconfig.json
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculatorGUI\bin\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.dll
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculatorGUI\bin\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.pdb
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\MortgageCalculatorGUI.MainForm.resources
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.csproj.GenerateResource.cache
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.AssemblyInfoInputs.cache
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.AssemblyInfo.cs
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.csproj.CoreCompileInputs.cache
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.dll
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\refint\MortgageCalculatorv2.dll
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.pdb
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\MortgageCalculatorv2.genruntimeconfig.cache
+C:\MSSA projects\FrontEnd-Collab\WindowsForm\MortgageCalculatorGUI\obj\Release\net7.0-windows\win10-x64\ref\MortgageCalculatorv2.dll

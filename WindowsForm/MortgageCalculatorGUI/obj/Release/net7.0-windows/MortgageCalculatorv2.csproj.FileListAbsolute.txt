@@ -1,0 +1,16 @@
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\bin\Release\net7.0-windows\MortgageCalculatorv2.exe
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\bin\Release\net7.0-windows\MortgageCalculatorv2.deps.json
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\bin\Release\net7.0-windows\MortgageCalculatorv2.runtimeconfig.json
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\bin\Release\net7.0-windows\MortgageCalculatorv2.dll
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\bin\Release\net7.0-windows\MortgageCalculatorv2.pdb
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\MortgageCalculatorGUI.MainForm.resources
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\MortgageCalculatorv2.csproj.GenerateResource.cache
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\MortgageCalculatorv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\MortgageCalculatorv2.AssemblyInfoInputs.cache
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\MortgageCalculatorv2.AssemblyInfo.cs
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\MortgageCalculatorv2.csproj.CoreCompileInputs.cache
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\MortgageCalculatorv2.dll
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\refint\MortgageCalculatorv2.dll
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\MortgageCalculatorv2.pdb
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\MortgageCalculatorv2.genruntimeconfig.cache
+C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\obj\Release\net7.0-windows\ref\MortgageCalculatorv2.dll

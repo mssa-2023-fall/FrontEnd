@@ -1,0 +1,16 @@
+C:\Users\crodr\source\repos\Chris\CSharpFundamentals\MortgageCalculator\MortgageCalculatorGUI\obj\Debug\net7.0-windows\MortgageCalculatorGUI.MainForm.resources
+C:\Users\crodr\source\repos\Chris\CSharpFundamentals\MortgageCalculator\MortgageCalculatorGUI\obj\Debug\net7.0-windows\MortgageCalculatorGUI.csproj.GenerateResource.cache
+C:\Users\crodr\source\repos\Chris\CSharpFundamentals\MortgageCalculator\MortgageCalculatorGUI\obj\Debug\net7.0-windows\MortgageCalculatorGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crodr\source\repos\Chris\CSharpFundamentals\MortgageCalculator\MortgageCalculatorGUI\obj\Debug\net7.0-windows\MortgageCalculatorGUI.AssemblyInfoInputs.cache
+C:\Users\crodr\source\repos\Chris\CSharpFundamentals\MortgageCalculator\MortgageCalculatorGUI\obj\Debug\net7.0-windows\MortgageCalculatorGUI.AssemblyInfo.cs
+C:\Users\crodr\source\repos\Chris\CSharpFundamentals\MortgageCalculator\MortgageCalculatorGUI\obj\Debug\net7.0-windows\MortgageCalculatorGUI.csproj.CoreCompileInputs.cache
+C:\Users\crodr\source\repos\Chris\CSharpFundamentals\MortgageCalculator\MortgageCalculatorGUI\bin\Debug\net7.0-windows\MortgageCalculatorGUI.exe
+C:\Users\crodr\source\repos\Chris\CSharpFundamentals\MortgageCalculator\MortgageCalculatorGUI\bin\Debug\net7.0-windows\MortgageCalculatorGUI.deps.json
+C:\Users\crodr\source\repos\Chris\CSharpFundamentals\MortgageCalculator\MortgageCalculatorGUI\bin\Debug\net7.0-windows\MortgageCalculatorGUI.runtimeconfig.json
+C:\Users\crodr\source\repos\Chris\CSharpFundamentals\MortgageCalculator\MortgageCalculatorGUI\bin\Debug\net7.0-windows\MortgageCalculatorGUI.dll
+C:\Users\crodr\source\repos\Chris\CSharpFundamentals\MortgageCalculator\MortgageCalculatorGUI\bin\Debug\net7.0-windows\MortgageCalculatorGUI.pdb
+C:\Users\crodr\source\repos\Chris\CSharpFundamentals\MortgageCalculator\MortgageCalculatorGUI\obj\Debug\net7.0-windows\MortgageCalculatorGUI.dll
+C:\Users\crodr\source\repos\Chris\CSharpFundamentals\MortgageCalculator\MortgageCalculatorGUI\obj\Debug\net7.0-windows\refint\MortgageCalculatorGUI.dll
+C:\Users\crodr\source\repos\Chris\CSharpFundamentals\MortgageCalculator\MortgageCalculatorGUI\obj\Debug\net7.0-windows\MortgageCalculatorGUI.pdb
+C:\Users\crodr\source\repos\Chris\CSharpFundamentals\MortgageCalculator\MortgageCalculatorGUI\obj\Debug\net7.0-windows\MortgageCalculatorGUI.genruntimeconfig.cache
+C:\Users\crodr\source\repos\Chris\CSharpFundamentals\MortgageCalculator\MortgageCalculatorGUI\obj\Debug\net7.0-windows\ref\MortgageCalculatorGUI.dll

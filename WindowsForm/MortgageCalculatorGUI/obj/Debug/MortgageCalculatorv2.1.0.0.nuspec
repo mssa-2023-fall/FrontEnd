@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MortgageCalculatorv2</id>
+    <version>1.0.0</version>
+    <authors>MortgageCalculatorv2</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net7.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\bin\Debug\net7.0-windows\MortgageCalculatorv2.runtimeconfig.json" target="lib\net7.0-windows7.0\MortgageCalculatorv2.runtimeconfig.json" />
+    <file src="C:\Users\crodr\source\repos\Chris\Projects\MortgageCalculator\MortgageCalculatorGUI\bin\Debug\net7.0-windows\MortgageCalculatorv2.dll" target="lib\net7.0-windows7.0\MortgageCalculatorv2.dll" />
+  </files>
+</package>
