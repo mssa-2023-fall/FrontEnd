@@ -21,17 +21,20 @@ namespace TestMiddleware.Pages
         public void OnPost()
         {
             // Store a value in a cookie
-            string valueToStore = "GlizzyGalore"; // Replace with the value you want to store
+            string valueToStore = "GlizzyGalore"; // stored value
             byte[] bytesToStore = System.Text.Encoding.UTF8.GetBytes(valueToStore);
             var options = new DistributedCacheEntryOptions
             {
                 AbsoluteExpirationRelativeToNow = TimeSpan.FromMinutes(10) // Set the cookie expiration time
             };
             _cache.Set("GlizzyCookie", bytesToStore, options);
+            //test & validate cookie storage
             string decode = Encoding.UTF8.GetString(bytesToStore);
             Console.WriteLine(_cache.Get("GlizzyCookie"));
             Console.WriteLine(decode);
         }
+
+       
 
         public void OnGet()
         {
