@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ze/4lW9UWQPPzCHbZHH8SH8UgnAbSosQd4IQCDpFW8UbpChpbK4JhAB3SaJtIP+UGJamDXRGyyHk8xrM+xtDmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aleja_a1mv85h\\source\\repos\\FrontEnd\\Mortgage\\MortgageConsole\\MortgageConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleja_a1mv85h\\.nuget\\packages\\mssamortgagecalculator\\1.0.0\\mssamortgagecalculator.1.0.0.nupkg.sha512",
+    "C:\\Users\\aleja_a1mv85h\\.nuget\\packages\\spectre.console\\0.47.0\\spectre.console.0.47.0.nupkg.sha512",
+    "C:\\Users\\aleja_a1mv85h\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
